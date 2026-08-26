@@ -16,9 +16,10 @@
 *   **📚 Events & Trainings:** We regularly host workshops and events at the intersection of international politics, technology, and economics.
 *   **✈️ International Conferences:** Our delegates travel around the globe to participate in prestigious international MUN conferences, engaging with students from all over the world.
 
-### 💻 Open Source at MUNTUM
+### 💻 Software Projects at MUNTUM
 
-*(Optional: Add a brief sentence here about what your GitHub organization is used for, e.g., "We use GitHub to build and maintain internal tools, our website, and resources for our delegates.")*
+* **MUNTUMcommand**
+* **Recruiting Platform**
 
 ### 🤝 Connect With Us
 

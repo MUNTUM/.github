@@ -1,37 +1,33 @@
-<h1 align="center">Welcome to muntum.org 👋</h1>
+<h1 align="center">Welcome to MUNTUM 👋</h1>
 
 <p align="center">
-  <strong>Building [insert your core mission or catchphrase here, e.g., open-source tools for a better web]</strong>
+  <strong>Munich's Biggest Model UN Society</strong>
 </p>
 
 ---
 
-### 🚀 About Us
+### 🌍 About Us
 
-Muntum is an open-source initiative dedicated to [describe your organization's primary goal, e.g., creating accessible software, exploring new technologies, etc.]. We believe in community-driven development and building tools that make a difference.
+**Model United Nations TU Munich (MUNTUM) e.V.** is a student initiative dedicated to diplomacy, international exchange, and debate. We simulate United Nations bodies and committees, enabling our members to foster a global perspective on current events and the pressing questions of our time. 
 
-*   🌍 **Website:** [muntum.org](https://muntum.org)
-*   💬 **Community:** [Link to Discord/Slack/Forum]
-*   📫 **Contact:** [contact@muntum.org](mailto:contact@muntum.org)
+### 🎯 What We Do
 
-### 🛠️ What We're Working On
+*   **🗣️ Weekly Sessions:** We hone our debating and analytical skills, prepare for conferences, and discuss current world issues.
+*   **📚 Events & Trainings:** We regularly host workshops and events at the intersection of international politics, technology, and economics.
+*   **✈️ International Conferences:** Our delegates travel around the globe to participate in prestigious international MUN conferences, engaging with students from all over the world.
 
-Here are a few of our featured projects:
+### 💻 Open Source at MUNTUM
 
-*   **[Project 1 Name](link-to-repo):** A brief description of what this project does and why it's awesome.
-*   **[Project 2 Name](link-to-repo):** A brief description of what this project does and why it's awesome.
-*   **[Project 3 Name](link-to-repo):** A brief description of what this project does and why it's awesome.
+*(Optional: Add a brief sentence here about what your GitHub organization is used for, e.g., "We use GitHub to build and maintain internal tools, our website, and resources for our delegates.")*
 
-### 🤝 Get Involved
+### 🤝 Connect With Us
 
-We love contributions! Whether you're a developer, designer, or just someone with great ideas, there's a place for you here. 
-
-1. Check out our open issues.
-2. Read our [Contributing Guidelines](link-to-contributing-md) (if applicable).
-3. Fork a repository and submit a Pull Request!
+*   **Website:** [muntum.org](https://muntum.org)
+*   **Email:** [info@muntum.org](mailto:info@muntum.org)
+*   **Location:** Munich, Germany 
 
 ---
 
 <p align="center">
-  <i>Made with ❤️ by the Muntum team.</i>
+  <i>Reshaping the world with words.</i>
 </p>

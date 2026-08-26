@@ -29,5 +29,5 @@
 ---
 
 <p align="center">
-  <i>Made with ❤️ by the Muntum team.</i>
+  <i>Made with ❤️ by the MUNTUM team.</i>
 </p>

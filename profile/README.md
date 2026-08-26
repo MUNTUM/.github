@@ -29,5 +29,5 @@
 ---
 
 <p align="center">
-  <i>Reshaping the world with words.</i>
+  <i>Made with ❤️ by the Muntum team.</i>
 </p>

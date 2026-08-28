@@ -25,7 +25,7 @@
 
 *   **Website:** [muntum.org](https://muntum.org)
 *   **Email:** [info@muntum.org](mailto:info@muntum.org)
-*   **Location:** Munich, Germany 
+*   **Location:** Arcisstraße 21, 80333 Munich, Germany
 
 ---
 

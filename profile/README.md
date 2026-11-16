@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to MUNTUM</h1>
 
 <p align="center">
-  <strong>Munich's Biggest Model UN Society</strong>
+  <strong>Germany's Biggest Model UN Society</strong>
 </p>
 
 ---
